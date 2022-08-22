@@ -1,8 +1,33 @@
 - 👋 Hi, I’m Fortunato
 - 👀 I’m interested in web and mobile technologies
-<!-- 🌱 I’m currently learning ReactJS
-💞️ I’m looking to collaborate on ...
- 📫 How to reach me: -->
+
+> Web Developer with experience in Systems, Websites and Mobile Applications development. Graduated in Information Technology Management, Postgraduate in Technologies for Web Applications and Geoprocessing.
+
+### Back-end
+- Languages [ PHP | JavaScript (React Native) | Java (Android)]
+- Frameworks [ Laravel 8 | livewire]
+- Database [ MySQL | MariaDB | PostgreSQL | firebase]
+- CMS [Wordpress]
+
+### Front-end
+- HTML5 & CSS3 [ W3C | Bootstrap 5 | Tailwind CSS ]
+- JavaScript [ JQuery | Alpine JS | React JS ]
+
+### Mobile
+- Languages [ Java | JavaScript | JSX | XML ]
+- Frameworks [ React Native | Expo ]
+
+### DevOps
+- Cloud Server [ Google Cloud Platform ]
+
+### Tools
+- IDE [ Visual Studio Code | Android Studio | Eclipse]
+- Source code versioning control [ GIT | Github | bitbucket]
+- Data analysis [ Power BI | DAX | Power query M ]
+
+### Management of IT teams and resources.
+- Project Management [ PMBOK ]
+- Agile Work Methodologies [ Agile | Kanban | Scrum ]
 
 <hr>
 <div>
