@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fortunato
 - 👀 I’m interested in web and mobile technologies
-- 🌱 I’m currently learning Node.js and ReactJS
-<!-- 💞️ I’m looking to collaborate on ...
+<!-- 🌱 I’m currently learning ReactJS
+💞️ I’m looking to collaborate on ...
  📫 How to reach me: -->
 
 <hr>
